@@ -4,6 +4,8 @@ A private, two-person travel tracker built with PHP and SQLite. Each traveler ca
 
 The interactive, dark-mode world map highlights each traveler's visits and places visited together. Map boundaries are bundled locally, so the map does not contact an external service.
 
+![Travel Together example](images/example.jpg)
+
 AI was used to built this website.
 
 ## Requirements
